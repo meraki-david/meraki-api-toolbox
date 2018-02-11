@@ -15,11 +15,11 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "request": "^2.81.0",
-    "react-bootstrap": "latest",
+    "react-bootstrap": "0.31.5",
     "json-bigint": "latest",
     "webpack": "^3.1.0",
     "webpack-dev-server": "^2.5.1",
-    "node-fetch": "latest",
+    "node-fetch": "1.7.3",
     "https": "latest",
     "body-parser": "latest"
   },
@@ -28,7 +28,7 @@
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-preset-react": "latest",
-    "babel-preset-es2015": "latest",
+    "babel-preset-env": "latest",
     "http-proxy-middleware": "^0.17.4",
     "webpack": "^3.1.0",
     "webpack-dev-server": "^2.5.1"
